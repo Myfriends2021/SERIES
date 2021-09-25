@@ -1,6 +1,16 @@
 <channels>
 <channel>
-<name>[COLOR yellow][B]|||SÉRIES[COLOR orange][COLOR yellow]|||[/B][/COLOR]</name>
+<name>[COLOR yellow][B]|||SÉRIE - LOKI[COLOR orange][COLOR yellow]|||[/B][/COLOR]</name>
+<thumbnail>https://f.i.uol.com.br/fotografia/2021/05/12/1620835470609bfc8e766b4_1620835470_3x2_md.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Myfriends2021/SERIESS/main/LOKI</externallink>
+<fanart>https://f.i.uol.com.br/fotografia/2021/05/12/1620835470609bfc8e766b4_1620835470_3x2_md.jpg</fanart>
+<info>Varias Séries, Varios temas</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR yellow][B]|||SÉRIE - UMBRELLA ACADEMY[COLOR orange][COLOR yellow]|||[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
